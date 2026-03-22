@@ -27,7 +27,7 @@
 | ☁️ Cloud | Microsoft Azure, AWS |
 | ⚙️ DevOps & CI/CD | Azure DevOps, GitHub Actions, GitLab |
 | 🐳 Containers & Orchestration | Docker, Kubernetes |
-| 🧱 Infrastructure as Code | Terraform, Ansible |
+| 🧱 Infrastructure as Code & Automation | Terraform, Ansible |
 | 📊 Monitoring & Observability | Prometheus, Grafana |
 | 🐧 OS & Scripting | Linux, Windows, Bash, Python, PowerShell |
 | 🔐 Version Control | Git, GitHub, Azure DevOps |
