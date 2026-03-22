@@ -36,9 +36,9 @@
 
 ### 📌 Featured Projects
 - 🔹 90 Days of DevOps → [link](https://github.com/ShubhamNisal/90DaysOfDevOps)
-- 🔹 Shell Scripts → [link](link)
-- 🔹 Python Scripts → [link](link)
-- 🔹 DevOps Notes → [link](link)
+- 🔹 Shell Scripts → [link](https://github.com/ShubhamNisal/Shell-Scripts)
+- 🔹 Python Scripts → [link](https://github.com/ShubhamNisal/Python-Scripts)
+- 🔹 DevOps Notes → [link](https://github.com/ShubhamNisal/DevOps-Notes)
 
 ---
 
